@@ -99,9 +99,6 @@ Se utiliza para permitir que el backend de Spring Boot interactúe con una base 
 - Botón de inicio de sesión: Haga clic para iniciar sesión.
 - Botón de registro: Haga clic para abrir el formulario de registro si es un usuario nuevo.
 
- ![image](https://github.com/user-attachments/assets/ce6ca41a-8eb7-4aba-8ebd-91bdd2cdb912)
-
-
 #### Nota: La aplicación diferencia entre usuarios administradores y clientes. Use @admin como nombre de usuario y contraseña para iniciar sesión como administrador.
 
 ## Página del cliente
@@ -115,9 +112,6 @@ Una vez que haya iniciado sesión correctamente como cliente, se lo dirigirá a 
 - Enviar pedido: envíe su pedido para procesarlo.
 - Cambiar cuenta: cierre la sesión y regrese a la página de inicio de sesión.
 
-  ![image](https://github.com/user-attachments/assets/8f3fc10d-0481-4179-b887-355011b94800)
-
-
 ## Página de administración
 
 Los administradores tienen acceso a la página de administración después de iniciar sesión. Esta página les permite:
@@ -128,11 +122,6 @@ Los administradores tienen acceso a la página de administración después de in
 - Detalles del pedido: vea información detallada sobre cada pedido.
 - Actualizar datos: actualice los datos que se muestran en la página.
 - Cambiar cuenta: cierre la sesión y regrese a la página de inicio de sesión.
-
- ![image](https://github.com/user-attachments/assets/0ff3261c-706b-4127-b8ca-df58a0ae3fd4)
-
- ![image](https://github.com/user-attachments/assets/da094f81-1b80-4b93-8971-ae37111f0afb)
-
 
 ### Soporte
 
